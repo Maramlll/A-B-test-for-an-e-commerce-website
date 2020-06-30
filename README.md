@@ -1,6 +1,6 @@
 # Udacity_Data_Analyst_project3
 
-## Analyze_ab_test_results_notebook / project 2
+## Analyze_ab_test_results_notebook / project 3
 This project will assure you have mastered the subjects covered in the statistics lessons.
 
 Getting Started
