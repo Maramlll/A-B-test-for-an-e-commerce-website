@@ -1,18 +1,4 @@
-# Udacity_Data_Analyst_project3
 
-## Analyze_ab_test_results_notebook / project 3
-This project will assure you have mastered the subjects covered in the statistics lessons.
+# Analyze_ab_test_results 
 
-Getting Started
-
-Prerequisites
-What things you need to install the software 
-
-
-Installing: Anaconda - JupyterLab
- 
- Programming Language used : Python 3 
- 
- Python library used: 
- pandas, numpy, matplotlib, seaborn 
-
+Working on this project to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product.The goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
